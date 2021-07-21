@@ -1,0 +1,56 @@
+I"√<div class="wrapper">
+    <header>
+        
+        <div class="logo-container">
+          <a class="logo" href="" style="background-image: url('images/6.jpg')"></a>
+        </div>
+        
+
+        
+        <div class="author-container"><h1>Dinis</h1></div>
+        
+
+        
+        <div class="tagline-container"><p>Personal Portfolio</p></div>
+        
+    </header>
+    <main>
+      
+      <div class="content">
+        <h2>Menu</h2>
+
+<ul class="fa-ul main-list">
+  <li class="main-list-item">
+    <span class="fa fa-university fa-lg main-list-item-icon"></span>
+      <a href="resume">Resum√©</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa fa-globe fa-lg main-list-item-icon"></span>
+    <a href="travelmap">Travel Map</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa fa-camera-retro fa-lg main-list-item-icon"></span>
+    <a href="gallery">Gallery</a>
+  </li>
+
+
+<hr />
+
+<ul class="fa-ul main-list">
+  <li class="main-list-item">
+    <span class="fa fa-envelope-o fa-lg main-list-item-icon"></span>
+    <a href="mailto:dinis.ferreira@outlook.com">Mail</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa fa-github fa-lg main-list-item-icon"></span>
+    <a href="https://github.com/dinis6">GitHub</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa fa-linkedin-square fa-lg main-list-item-icon"></span>
+    <a href="https://www.linkedin.com/in/dinismferreira/">Linkedin</a>
+  </li>
+</ul>
+
+      
+</ul></div></main></div>
+:ET

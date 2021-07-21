@@ -1,13 +1,17 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
-  body {
-    font-family: 'Quicksand', sans-serif;  
-    font-size: 100%;
-    color: #012;
-    background-color: #FFF; }
 
+
+
+  body {
+    font-family: 'Vollkorn', serif;
+    font-size: 100%;
+    color: #46433A;
+    background-color: #F1EED9; }
+
+/* cor das letras do menu*/
   a {
-    color: #57A;
+    color: #CE534D;
     font-weight: bold;
     text-decoration: none; }
 
@@ -42,7 +46,7 @@
       font-weight: 400; }
 
   strong {
-    color: #16a085; }
+    color: #CE534D; }
 
   .wrapper {
     max-width: 800px;
@@ -58,11 +62,11 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #46433A;
     display: block; }
 
   .menu {
-    color: #828282;
+    color: #46433A;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -81,7 +85,7 @@
   .social-links {
     float: right;
     font-size: 150%;
-    color: #828282;
+    color: #46433A;
     list-style-type: none; }
 
   .social-links__entry {
@@ -100,7 +104,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #828282; }
+    color: #46433A; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -113,7 +117,7 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: #46433A; }
 
   .post-teaser__date {
     font-size: 100%;
@@ -129,7 +133,7 @@
   .empty-post-list {
     font-size: 150%;
     font-weight: 700;
-    color: #333333;
+    color: #46433A;
     text-align: center; }
 
 /* =Post page *//*************************************************************/

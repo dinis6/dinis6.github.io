@@ -1,24 +1,26 @@
 <header class="header">
 <div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+  <div class="logo-container"><a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a></div>
+  <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+<li class="menu__entry"><span class="fa fa-university main-list-item-icon"></span><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+<li class="menu__entry"><span class="fa fa-globe main-list-item-icon"></span><a href="{{ '/travelmap' | prepend: site.baseurl }}">Travel Map</a></li>
+<li class="menu__entry"><span class="fa fa-camera-retro main-list-item-icon"></span><a href="{{ '/gallery' | prepend: site.baseurl }}">Gallery</a></li>
 </ul>
 </div>
 <ul class="social-links">
 {% if site.author.email %}
-<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<a href="mailto:dinis.ferreira@outlook.com" class="social-links__entry" target="_blank">
 <i class="fa fa-envelope-square"></i>
 </a>
 {% endif %}
 {% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<a href="https://github.com/dinis6" class="social-links__entry" target="_blank">
 <i class="fa fa-github"></i>
 </a>
 {% endif %}
 {% if site.author.linkedin %}
-<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<a href="https://in.linkedin.com/in/dinismferreira" class="social-links__entry" target="_blank">
 <i class="fa fa-linkedin"></i>
 </a>
 {% endif %}
