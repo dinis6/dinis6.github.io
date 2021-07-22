@@ -20,7 +20,7 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 
 compass:
   # an avatar or logo (optional)
-  logo: "images/6.jpg"
+  logo:
   # author will appear under the avatar (optional)
   author: "Dinis"
   # tagline will appear under the title (optional)
