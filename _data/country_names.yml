@@ -42,7 +42,7 @@
 -
   index: 'map_9'
   country_name: 'AUSTRIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_10'
