@@ -16,7 +16,7 @@ Java
 Outsystems
 
 <b>Database Management</b>
-SQL, MongoDB
+SQL, NoSQL
 
 <b>Microsoft Office</b>
 Word, Excel, Powerpoint
@@ -25,28 +25,31 @@ Word, Excel, Powerpoint
 Orange3, PowerBi
 
 <b>Version Control</b>
-Github
+Git
 
 <hr />
 
-### WORK IN PROGRESS
+### LEARNING
 
 <b>Back-End</b>
-Python, C
+Python, Go
 
 <b>Front-End</b>
-HTML, CSS, Javascript, Typescript
+HTML, CSS, Typescript, Angular
 
 <hr />
 
 ### EDUCATION
 
 ISCTE <span style="float: right; ">2015-2021</span>  
-**Bachelor in Computer Science and Business Adminstration**  
+**Bachelor in Computer Science and Business Management**  
 
 <hr />
 
 ### EXPERIENCE
+
+Software Engineer - **Critical Techworks** - _Full-time worker_ <span style="float: right; ">September 2021 - Ongoing</span>  
+Technologies used: Java (Quarkus), Angular, Typescript, HTML, CSS, Docker, Kubernetes, Azure, SQL (PostgreSQL), Git
 
 Back-End Developer - **Accenture** - _Internship_ <span style="float: right; ">June 2019</span>  
 Technologies used: Java, SQL  
