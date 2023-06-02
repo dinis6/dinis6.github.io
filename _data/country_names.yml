@@ -202,7 +202,7 @@
 -
   index: 'map_41'
   country_name: 'CZECH REPUBLIC'
-  visited: false
+  visited: true
 
 -
   index: 'map_42'
@@ -347,12 +347,12 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
   country_name: 'ICELAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_72'
@@ -802,7 +802,7 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_162'
